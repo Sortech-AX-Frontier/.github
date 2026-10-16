@@ -1,4 +1,4 @@
-# Sortech-Infra
+# Sortech-AX-Frontier
 
 **말로 설명한 업무를, 실행 가능한 자동화로.**
 
